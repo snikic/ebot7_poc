@@ -1,0 +1,13 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "test the sdk",
+  "main": "index.js",
+  "author": "snikic",
+  "license": "MIT",
+  "dependencies": {
+    "@ebot7/javascript-sdk": "^0.0.7",
+    "@ebot7/sdk": "^0.2.0"
+  },
+    "type": "module"
+}
